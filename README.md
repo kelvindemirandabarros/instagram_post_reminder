@@ -8,3 +8,11 @@ Aprendizados:
 - Uso do 'import' no Html.
 - Programação orientada a objetos.
 - Criação e personalização de um notificador em uma página web.
+
+
+Aula 02 - https://youtu.be/MJAwA2rICzs
+
+Aprendizados:
+
+- Uso do temporizador setInterval() com seu clearInterval();
+- Formatação de strings com o String().padStart();
